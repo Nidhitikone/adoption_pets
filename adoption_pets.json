@@ -1,5 +1,5 @@
 {
-    "cats": [
+    "pets": [
       {
         "id": 1,
         "name": "Lola",
@@ -22,11 +22,9 @@
         "description":"Meet zoe. ",
         "vaccinated":"Yes",
         "spayed/nutered":"No"
-      }
-    ],
-   "dogs": [
-    {
-      "id": 1,
+      },
+        {
+      "id": 3,
       "name": "Todd",
       "age": "1 Year",
       "breed":"Boxer",
@@ -36,8 +34,8 @@
       "vaccinated":"Yes",
       "spayed/nutered":"Yes"
     },
-    {
-      "id": 2,
+        {
+      "id": 4,
       "name": "Pablo",
       "age": "4 Years",
       "breed":"Bull Dog",
@@ -47,6 +45,9 @@
       "vaccinated":"Yes",
       "spayed/nutered":"Yes"
     }
+    
+   
+    
   ]
     
 
