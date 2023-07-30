@@ -2,35 +2,35 @@
     "pets": [
       {
         "id": 1,
-        "name": "Lola",
+        "name": "Oreo",
         "age": "3 Years",
         "breed":"American Curl",
-        "sex":"Female",
+        "sex":"Male",
         "image":"https://th.bing.com/th/id/OIP.WJD5t8W7Ks_xQcOxY0IU8AHaE7?pid=ImgDet&rs=1",
-        "description":"Meet Lola. ",
+        "description":"Oreo is a charming black and white kitten with a playful and mischievous personality. He's full of energy and loves chasing toys and climbing on cat trees. Oreo is seeking a home with plenty of playtime and love to give.",
         "vaccinated":"Yes",
         "spayedNeutered":"Yes"
       },
       {
         "id": 2,
-        "name": "Zoe",
+        "name": "Misty",
         
         "age": "2 Years",
         "breed":"Scottish Fold",
-        "sex":"Male",
+        "sex":"Female",
         "image":"https://critterfacts.com/wp-content/uploads/2020/08/An-orange-Scottish-Fold-kitten.jpg",
-        "description":"Meet zoe. ",
+        "description":"Misty is a graceful and affectionate Ragdoll cat who adores being held and cuddled. With her semi-long fur and striking blue eyes, she's a picture of elegance. Misty is looking for a caring owner who will appreciate her loving nature and commit to regular grooming.",
         "vaccinated":"Yes",
         "spayedNeutered":"No"
       },
         {
       "id": 3,
-      "name": "Todd",
+      "name": "Max",
       "age": "1 Year",
       "breed":"Boxer",
       "sex":"Female",
       "image":"https://th.bing.com/th/id/OIP.L9eUmHR0UHg-ztDus_M5awAAAA?pid=ImgDet&rs=1",
-      "description":"Meet Todd. ",
+      "description":" Max is a lovable and gentle Boxer with a heart of gold. His warm and friendly nature makes him great with kids and other pets. Max enjoys leisurely walks and being showered with affection. He's a loyal companion who will bring joy and companionship to any loving household.",
       "vaccinated":"Yes",
       "spayedNeutered":"Yes"
     },
@@ -41,7 +41,7 @@
       "breed":"Bull Dog",
       "sex":"Male",
       "image":"https://4.bp.blogspot.com/-f07LXwPKJJE/UPL-yc2leqI/AAAAAAAADzY/fbK_OmZHn4s/s1600/American-Bulldog-Facts-and-Images+02.jpg",
-      "description":"Meet Pablo. ",
+      "description":"Pablo is a sweet and affectionate bull dog who loves cuddling and being pampered. With his charming personality, he'll melt your heart. Pablo is low-energy and prefers relaxed walks, making his an ideal companion for someone seeking a laid-back furry friend. ",
       "vaccinated":"Yes",
       "spayedNeutered":"Yes"
     }
